@@ -1,0 +1,20 @@
+1. When a class is defined a template is defined. When that template is filled (object instantiation) it can be submitted.
+
+2. Class - Employee
+   Attribute - name,age,salary
+   Methods - getSalary(),getName()
+
+3. class attribute: An attribute that belongs to the class rather than a particuar object.   (3.py)
+
+4. instance attribute: An attribute that belongs to the instance (object).   (4.py)
+
+5. The preference is given to the instance attribute over the class attribute.  (4.py)
+
+6. Parameter - defined variables of a function
+
+7. Argument - values that are declared within a function when the function is called.
+
+8. self refers to the instance of the class. Python does not use @syntax to call the instance variable. Therefore it uses self to call out the instance variable.
+
+9. @staticmethod - It is used when you need a function that does not access any properties off a class.
+                   To say functions inside the static method is not dependent on class.
